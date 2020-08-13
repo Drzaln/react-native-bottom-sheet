@@ -1,4 +1,4 @@
-import type {
+import {
   TouchableOpacity as RNTouchableOpacity,
   TouchableHighlight as RNTouchableHighlight,
   TouchableWithoutFeedback as RNTouchableWithoutFeedback,
